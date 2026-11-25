@@ -55,59 +55,93 @@ Vela asks for a license key the first time it opens. **The key is free**, and ge
 
 ## What it does
 
-Move the mouse to the notch and Vela opens. Move away and it's gone.
+Move the mouse to the notch and Vela opens. Move away and it's gone. Each tab on the left is one part of Vela, and you can turn off the ones you don't use: they disappear and stop running.
 
-### ⏱ Focus
+### 🏠 Home
 
 <img src="assets/focus.png" alt="Focus timer with a task" width="720">
 
-A Pomodoro timer on Home. Pick a task from Jira, ClickUp, Asana or Notion and Vela tracks the time on it. It can block the sites and apps you choose while you focus, play your focus music, and remind you to rest your eyes every 20 minutes.
+Your day at a glance. A **focus timer** (Pomodoro) on top: pick a task from Jira, ClickUp, Asana or Notion and Vela counts the time on it. It can block the sites and apps you choose while you focus and remind you to rest your eyes. Below it, cards you arrange yourself: notes, reminders, the last meeting, music, AI usage and more.
 
-### ✨ AI assistant
+<img src="assets/stats.png" alt="Focus stats for the week" width="720">
 
-<img src="assets/voice.png" alt="Voice assistant under the notch" width="560">
+**Focus stats**: how much you focused today and this week, your best hours, what distracted you and how many breaks you took.
 
-Ask anything by voice (**⌥ Space**) or in the notch. It sets reminders, writes notes, reads your calendar and tasks, searches the web, and works with files you allow it to. It asks before it sends, runs or deletes anything.
+### 🎵 Music
 
-<img src="assets/project.png" alt="A project with instructions, files and chats" width="420">
+<img src="assets/music.png" alt="Music tab with the song playing and up next" width="720">
 
-Keep **projects** with instructions, files and folders: every chat in a project knows them. Switch between Gemini, Claude and ChatGPT in the middle of a chat.
+YouTube Music, Apple Music, Spotify or a folder of songs on your Mac. Play, pause, skip and search without opening the app, see what's up next, and start a focus playlist together with the timer.
 
-### 📝 Anywhere you type
+### ✅ Tasks
 
-<img src="assets/selected-text.png" alt="Actions for selected text" width="720">
+<img src="assets/tasks.png" alt="Tasks from Jira, Notion, ClickUp and Asana" width="720">
 
-Select text in any app and press **⌃⌥G**: fix, translate, shorten, change the tone, or ask the AI about it. **Dictation** (⌃⌥D) types what you say where the cursor is. Make your own commands too.
+Your tasks from **Jira, Notion, ClickUp and Asana** in one list. Filter by status, sort by priority or due date, change a task's status or complete it right from the notch.
 
-### 🗒 Notes and recordings
+### 📅 Calendar
 
-<img src="assets/notes.png" alt="Notes with checklists" width="720">
+<img src="assets/calendar.png" alt="Today's meetings and the next one with Join" width="720">
 
-Write notes or record a voice note: Vela turns it into text with a title and a summary. Record calls and get a summary with decisions and tasks.
+Today's meetings from your calendars (Google, iCloud, Outlook). The next meeting stays on top with a **Join** button, and Vela reminds you before it starts.
 
-### 🎙 Meetings
+### 🗂 Shelf
+
+<img src="assets/shelf.png" alt="Clipboard history, files and screenshots" width="720">
+
+**Clipboard history**, files you drop here and your new screenshots, all at hand. Sort them into folders, search, filter by type, drag them out into any app. Take a screenshot with **⌃⌥S** and draw on it.
+
+### ⏺ Record
+
+<img src="assets/record.png" alt="Recordings with a meeting summary" width="720">
+
+Record your screen, your voice and the Mac's sound: a call, a demo, a lecture. Vela turns it into text and writes a **summary with decisions and tasks**. Speech is recognized on your Mac.
+
+### 🎧 Meeting helpers
 
 <img src="assets/teleprompter.png" alt="Teleprompter scripts" width="720">
 
-**Teleprompter**: your script scrolls over the screen while you record or present. Viewers and recordings don't see it.
+**Teleprompter**: write or open a script. It scrolls over your screen while you record or present, and nobody on the call or in the recording sees it. **⌃⌥P** shows or hides it.
 
 <img src="assets/meeting-hints.png" alt="Short hints during a call" width="560">
 
-**Meeting helper**: forgot a price or how a feature works mid-call? One key shows a short hint from your notes. Speech is recognized on your Mac, and nobody on the call sees it.
+**Meeting helper**: give it your notes, files or a project. During a call, one key shows a short hint about the question just asked, from your own notes. Others don't see it, and nothing from the call is saved.
+
+### 📝 Notes
+
+<img src="assets/notes.png" alt="Notes with a checklist" width="720">
+
+Write notes or record a **voice note**: Vela turns it into text with a title and a summary. Lists, to-dos and headings. The AI can add to a note or tidy it up, and every note keeps its version history.
+
+### ✨ Assistant
+
+<img src="assets/assistant.png" alt="AI chat with tool steps" width="720">
+
+Chat with **Gemini, Claude or ChatGPT**, or ask by voice with **⌥Space** from anywhere. It sets reminders, writes notes, reads your calendar and tasks, searches the web and works with the files you allow. It asks before it sends, runs or deletes anything. Switch the AI in the middle of a chat and it keeps going.
+
+<img src="assets/project.png" alt="A project with instructions, files and chats" width="420">
+
+**Projects**: instructions, files and folders that every chat in the project knows. One for each client, course or big task.
+
+### 🔤 Language practice
+
+<img src="assets/english.png" alt="Language practice card" width="360">
+
+Translate into your language, and get a **short daily quiz** made from your own mistakes in the language you're learning.
+
+### ⌨️ Anywhere you type
+
+<img src="assets/selected-text.png" alt="Actions for selected text" width="720">
+
+Select text in any app and press **⌃⌥G**: fix, translate, shorten, change the tone, or ask the AI about it. **Dictation** (**⌃⌥D**) types what you say where the cursor is. Add your own commands too.
 
 ### 🧩 And more
 
-- **Music**: YouTube Music, Apple Music, Spotify or a folder, with the song by the notch.
-- **Calendar**: today's meetings and one click to join.
-- **Slack**: a nudge about messages you haven't answered.
-- **Shelf**: clipboard history, files and new screenshots at hand. Screenshots you can draw on.
-- **Paste queue**: copy several things, paste them one by one (**⌘E**).
-- **Window layouts**: save how your windows are arranged and bring them back with one key.
-- **Language practice**: translate into your language and get a short daily quiz from your own mistakes.
+- **Paste queue**: copy several things, then paste them one by one with **⌘E**.
+- **Window layouts**: save how your windows are arranged and put them back with one key.
+- **Backups**: everything Vela keeps, saved every day or week, and restored in one click.
 - **Telegram bot**: talk to Vela from your phone, by text or voice.
-- **Coding agents**: see Claude Code, Codex and Gemini CLI sessions on Home and answer their questions from the notch.
-
-Turn off what you don't use: it disappears everywhere and stops running.
+- **Coding agents**: see your Claude Code, Codex and Gemini CLI sessions and answer their questions from the notch.
 
 ---
 
