@@ -2,7 +2,7 @@
   <img src="assets/icon.png" width="128" alt="Vela icon">
 </p>
 
-<h1 align="center">Vela</h1>
+<h1 align="center">Vela <sup>alpha</sup></h1>
 
 <p align="center">
   <b>Your Mac's notch becomes a small control center.</b><br>
@@ -16,6 +16,10 @@
   &nbsp;·&nbsp;
   macOS 14+ · Apple silicon
 </p>
+
+> [!NOTE]
+> **Vela is in alpha testing.** Things may change, break or move between versions. Updates come often.
+> Found a bug or have an idea? Press **Problem? Share!** in Vela: it goes straight to the team.
 
 ---
 
