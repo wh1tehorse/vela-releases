@@ -59,7 +59,7 @@ Move the mouse to the notch and Vela opens. Move away and it's gone. Each tab on
 
 ### 🏠 Home
 
-<img src="assets/focus.png" alt="Focus timer with a task" width="720">
+<img src="assets/home.png" alt="Vela's Home: focus timer and cards" width="720">
 
 Your day at a glance. A **focus timer** (Pomodoro) on top: pick a task from Jira, ClickUp, Asana or Notion and Vela counts the time on it. It can block the sites and apps you choose while you focus and remind you to rest your eyes. Below it, cards you arrange yourself: notes, reminders, the last meeting, music, AI usage and more.
 
@@ -99,7 +99,7 @@ Record your screen, your voice and the Mac's sound: a call, a demo, a lecture. V
 
 ### 🎧 Meeting helpers
 
-<img src="assets/teleprompter.png" alt="Teleprompter scripts" width="720">
+<img src="assets/teleprompter.png" alt="Meeting helpers: a teleprompter script" width="720">
 
 **Teleprompter**: write or open a script. It scrolls over your screen while you record or present, and nobody on the call or in the recording sees it. **⌃⌥P** shows or hides it.
 
@@ -115,7 +115,7 @@ Write notes or record a **voice note**: Vela turns it into text with a title and
 
 ### ✨ Assistant
 
-<img src="assets/assistant.png" alt="AI chat with tool steps" width="720">
+<img src="assets/assistant.png" alt="Assistant: projects, chats and a conversation" width="720">
 
 Chat with **Gemini, Claude or ChatGPT**, or ask by voice with **⌥Space** from anywhere. It sets reminders, writes notes, reads your calendar and tasks, searches the web and works with the files you allow. It asks before it sends, runs or deletes anything. Switch the AI in the middle of a chat and it keeps going.
 
