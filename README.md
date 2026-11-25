@@ -168,7 +168,11 @@ Select text in any app and press **⌃⌥G**: fix, translate, shorten, change th
 
 Vela works with **Gemini**, **Claude** and **ChatGPT**. One is enough.
 
-**Gemini is free:** sign in at [aistudio.google.com](https://aistudio.google.com), create an API key and paste it into Vela. No card needed. Everything else in Vela works without any AI key.
+**Gemini is free:** sign in at [aistudio.google.com](https://aistudio.google.com), create an API key and paste it into Vela. No card needed.
+
+Most of Vela runs on AI: the assistant and voice commands, web search, summaries of recordings, meeting hints, fixing and translating text, and language practice. So add a key right away.
+
+Without a key you still get the focus timer, music, tasks, calendar, the Shelf, the paste queue, window layouts, bookmarks, the teleprompter, screen recording with a transcript, and backups.
 
 ## Privacy
 
