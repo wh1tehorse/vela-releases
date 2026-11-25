@@ -123,11 +123,31 @@ Chat with **Gemini, Claude or ChatGPT**, or ask by voice with **⌥Space** from 
 
 **Projects**: instructions, files and folders that every chat in the project knows. One for each client, course or big task.
 
+<img src="assets/web-search.png" alt="The assistant searches the web and answers with sources" width="720">
+
+**Web search**: ask about anything current, like the weather, prices or news. It searches the web and answers with the sources.
+
+<img src="assets/voice.png" alt="Vela listening under the notch" width="520">
+
+**Voice assistant**: press **⌥Space** anywhere and just say it: "remind me in 20 minutes to call Alex". Vela listens right under the notch and does it.
+
 ### 🔤 Language practice
 
-<img src="assets/english.png" alt="Language practice card" width="360">
+<img src="assets/practice.png" alt="Language practice: a question made from your own mistake" width="720">
 
 Translate into your language, and get a **short daily quiz** made from your own mistakes in the language you're learning.
+
+### 📚 Important bookmarks
+
+<img src="assets/bookmarks.png" alt="Important bookmarks under the Vela panel" width="720">
+
+Pick a bookmarks folder from Chrome, Safari, Edge or Arc. It sits under the panel, one click away. Reorder or hide them in Vela, your browser keeps its own order.
+
+### 📋 Paste queue
+
+<img src="assets/paste-queue.png" alt="Paste queue under the notch" width="520">
+
+Press **⌘E** and copy several things: text, pictures, files. Then **⌘V** pastes them one by one, in the order you copied them, or **⇧⌘V** pastes all at once.
 
 ### ⌨️ Anywhere you type
 
@@ -137,7 +157,6 @@ Select text in any app and press **⌃⌥G**: fix, translate, shorten, change th
 
 ### 🧩 And more
 
-- **Paste queue**: copy several things, then paste them one by one with **⌘E**.
 - **Window layouts**: save how your windows are arranged and put them back with one key.
 - **Backups**: everything Vela keeps, saved every day or week, and restored in one click.
 - **Telegram bot**: talk to Vela from your phone, by text or voice.
