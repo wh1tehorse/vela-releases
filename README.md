@@ -113,6 +113,18 @@ Record your screen, your voice and the Mac's sound: a call, a demo, a lecture. V
 
 Write notes or record a **voice note**: Vela turns it into text with a title and a summary. Lists, to-dos and headings. The AI can add to a note or tidy it up, and every note keeps its version history.
 
+### ⏰ Reminders
+
+<img src="assets/reminder.png" alt="A reminder under the notch" width="560">
+
+Set a reminder by voice, in the chat or on Home. When it's time, it shows right under the notch: mark it done or push it to later.
+
+### 📸 Screenshots to draw on
+
+<img src="assets/screenshot.png" alt="A screenshot with an arrow and a box drawn on it" width="720">
+
+Press **⌃⌥S**, pick an area, and draw arrows, boxes, lines or by hand. Copy text right from the picture, save it, or send it to the AI with one click.
+
 ### ✨ Assistant
 
 <img src="assets/assistant.png" alt="Assistant: projects, chats and a conversation" width="720">
@@ -153,14 +165,23 @@ Press **⌘E** and copy several things: text, pictures, files. Then **⌘V** pas
 
 <img src="assets/selected-text.png" alt="Actions for selected text" width="720">
 
-Select text in any app and press **⌃⌥G**: fix, translate, shorten, change the tone, or ask the AI about it. **Dictation** (**⌃⌥D**) types what you say where the cursor is. Add your own commands too.
+Select text in any app and press **⌃⌥G**: fix, translate, shorten, change the tone, or ask the AI about it. Add your own commands too.
+
+<img src="assets/dictation.png" alt="Dictation: as spoken or cleaned up" width="560">
+
+**Dictation** (**⌃⌥D**) types what you say where the cursor is: exactly as spoken, or cleaned up without the "um"s.
+
+### 🤖 Coding agents
+
+<img src="assets/agents.png" alt="Claude Code asks to run a command, in the notch" width="560">
+
+Using Claude Code, Codex or Gemini CLI? When an agent needs your permission or asks a question, it shows in the notch. Answer there, without looking for the terminal.
 
 ### 🧩 And more
 
 - **Window layouts**: save how your windows are arranged and put them back with one key.
 - **Backups**: everything Vela keeps, saved every day or week, and restored in one click.
 - **Telegram bot**: talk to Vela from your phone, by text or voice.
-- **Coding agents**: see your Claude Code, Codex and Gemini CLI sessions and answer their questions from the notch.
 
 ---
 
