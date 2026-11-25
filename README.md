@@ -37,6 +37,20 @@ It downloads Vela, puts it in Applications and opens it. Run it again any time t
 
 After that, Vela updates itself.
 
+## Get your free key
+
+Vela asks for a license key the first time it opens. **The key is free**, and getting it takes a minute.
+
+**1.** In Vela, click **No key yet? Get one free**.
+
+<img src="assets/get-key-signin.png" alt="Vela's sign-in screen" width="480">
+
+**2.** Enter your email and name, then click **Get Free Access**. It's $0: no card, nothing to pay.
+
+<img src="assets/get-key-checkout.png" alt="The free key page: $0, Get Free Access" width="640">
+
+**3.** Copy your key, paste it into Vela, tick the box and click **Sign In**. One key works on one Mac.
+
 ---
 
 ## What it does
@@ -116,7 +130,7 @@ Vela works with **Gemini**, **Claude** and **ChatGPT**. One is enough.
 
 **Which Macs?** Apple silicon (M1 or newer) with macOS 14 Sonoma or newer.
 
-**Is there a license key?** Vela asks for one at the first start. A free key is one click away from that screen.
+**Is there a license key?** Yes, and it's free. See [Get your free key](#get-your-free-key).
 
 **How do I update?** Vela checks for updates itself and shows a card when a new version is ready.
 
