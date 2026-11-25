@@ -172,22 +172,27 @@ Vela works with **Gemini**, **Claude** and **ChatGPT**. One is enough.
 
 Most of Vela runs on AI, so add a key right away.
 
-| Feature | Without a key | With an AI key |
-|---|:---:|:---:|
-| Focus timer | ✅ | ✅ |
-| Music | ✅ | ✅ |
-| Tasks and calendar | ✅ | ✅ |
-| Shelf and paste queue | ✅ | ✅ |
-| Window layouts | ✅ | ✅ |
-| Bookmarks | ✅ | ✅ |
-| Teleprompter | ✅ | ✅ |
-| Screen recording with a transcript | ✅ | ✅ |
-| Summaries of recordings | ❌ | ✅ |
-| Assistant and voice commands | ❌ | ✅ |
-| Web search | ❌ | ✅ |
-| Meeting hints | ❌ | ✅ |
-| Fixing and translating text | ❌ | ✅ |
-| Language practice | ❌ | ✅ |
+| Feature | Works without a key |
+|---|:---:|
+| Focus timer | ✅ |
+| Music | ✅ |
+| Tasks and calendar | ✅ |
+| Notes and reminders | ✅ |
+| Coding agents in the notch | ✅ |
+| Shelf and paste queue | ✅ |
+| Window layouts | ✅ |
+| Bookmarks | ✅ |
+| Teleprompter | ✅ |
+| Screen recording with a transcript | ✅ |
+| Screenshot to draw on, copy text from it | ✅ |
+| Dictation, exactly as you said it | ✅ |
+| Dictation, cleaned up (no "um", fixed punctuation) | ❌ |
+| Summaries of recordings | ❌ |
+| Assistant and voice commands | ❌ |
+| Web search | ❌ |
+| Meeting hints | ❌ |
+| Fixing and translating text | ❌ |
+| Language practice | ❌ |
 
 ## Privacy
 
