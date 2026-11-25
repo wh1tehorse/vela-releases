@@ -222,6 +222,8 @@ Most of Vela runs on AI, so add a key right away.
 - AI requests go only to the AI you chose, and only when you use it.
 - Anonymous usage stats help improve Vela. Turn them off in the intro or in Settings → About.
 
+The full [privacy policy](PRIVACY.md).
+
 ---
 
 ## Questions
