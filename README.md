@@ -170,25 +170,24 @@ Vela works with **Gemini**, **Claude** and **ChatGPT**. One is enough.
 
 **Gemini is free:** sign in at [aistudio.google.com](https://aistudio.google.com), create an API key and paste it into Vela. No card needed.
 
-Most of Vela runs on AI, so add a key right away. It powers:
+Most of Vela runs on AI, so add a key right away.
 
-- the assistant and voice commands
-- web search
-- summaries of recordings
-- meeting hints
-- fixing and translating text
-- language practice
-
-Without a key you still get:
-
-- the focus timer
-- music
-- tasks and calendar
-- the Shelf and the paste queue
-- window layouts
-- bookmarks
-- the teleprompter
-- screen recording with a transcript
+| Feature | Without a key | With an AI key |
+|---|:---:|:---:|
+| Focus timer | ✅ | ✅ |
+| Music | ✅ | ✅ |
+| Tasks and calendar | ✅ | ✅ |
+| Shelf and paste queue | ✅ | ✅ |
+| Window layouts | ✅ | ✅ |
+| Bookmarks | ✅ | ✅ |
+| Teleprompter | ✅ | ✅ |
+| Screen recording with a transcript | ✅ | ✅ |
+| Summaries of recordings | ❌ | ✅ |
+| Assistant and voice commands | ❌ | ✅ |
+| Web search | ❌ | ✅ |
+| Meeting hints | ❌ | ✅ |
+| Fixing and translating text | ❌ | ✅ |
+| Language practice | ❌ | ✅ |
 
 ## Privacy
 
