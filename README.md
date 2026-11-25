@@ -139,10 +139,6 @@ Chat with **Gemini, Claude or ChatGPT**, or ask by voice with **⌥Space** from 
 
 **Web search**: ask about anything current, like the weather, prices or news. It searches the web and answers with the sources.
 
-<img src="assets/voice.png" alt="Vela listening under the notch" width="520">
-
-**Voice assistant**: press **⌥Space** anywhere and just say it: "remind me in 20 minutes to call Alex". Vela listens right under the notch and does it.
-
 ### 🔤 Language practice
 
 <img src="assets/practice.png" alt="Language practice: a question made from your own mistake" width="720">
@@ -162,6 +158,10 @@ Pick a bookmarks folder from Chrome, Safari, Edge or Arc. It sits under the pane
 Press **⌘E** and copy several things: text, pictures, files. Then **⌘V** pastes them one by one, in the order you copied them, or **⇧⌘V** pastes all at once.
 
 ### ⌨️ Anywhere you type
+
+<img src="assets/voice.png" alt="Vela listening under the notch" width="520">
+
+**Voice assistant**: press **⌥Space** anywhere and just say it: "remind me in 20 minutes to call Olena about the release". Vela listens right under the notch and does it.
 
 <img src="assets/selected-text.png" alt="Actions for selected text" width="720">
 
